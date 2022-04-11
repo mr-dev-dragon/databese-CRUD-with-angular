@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Aman Kumar",
+      "class": "10th",
+      "address": "New Delhi",
+      "email": "jem.jay@gmail.com",
+      "city": "Delhi",
+      "password": "Demo@123"
+    },
+    {
+      "id": 3,
+      "name": "Ansh Kumar",
+      "class": "11th",
+      "address": "New Delhi",
+      "email": "ansh@gmail.com",
+      "city": "Delhi",
+      "password": "Demo@123"
+    },
+    {
+      "id": 4,
+      "name": "Arava kumar",
+      "class": "12th",
+      "address": "New Delhi",
+      "email": "Arava@gmail.com",
+      "city": "Delhi",
+      "password": "Demo@123"
+    },
+    {
+      "id": 5,
+      "name": "Vinay Kumar",
+      "class": "MCA",
+      "address": "New Delhi",
+      "email": "vinay@gmail.com",
+      "city": "Delhi",
+      "password": "Demo@123"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
